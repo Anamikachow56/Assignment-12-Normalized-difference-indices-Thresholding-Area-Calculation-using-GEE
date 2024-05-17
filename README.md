@@ -3,7 +3,7 @@ Question-1:
 Make a NDVI map of your upazila by using Landsat 9 imagery for 2022. Generate 4 different classes and calculate area for each class by thresholding. Upload the code, code link, and screenshot in your github repo. Submit the repo link.
 
 
-[Answer-1]()
+[Answer-1](https://code.earthengine.google.com/524f22b670bd8dbeeb7959e72f77b994)
 
 [Screenshot]()
 

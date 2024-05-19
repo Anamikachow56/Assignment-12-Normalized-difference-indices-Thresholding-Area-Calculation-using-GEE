@@ -26,6 +26,6 @@ Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() functio
 
 [Answer-3](https://code.earthengine.google.com/8f569a80914427510c439bc0be28c7e8)
 
-[Screenshot NDVI]()
+[Screenshot NDVI](https://github.com/Anamikachow56/Assignment-12-Normalized-difference-indices-Thresholding-Area-Calculation-using-GEE/blob/994e196de97c2ecc40d84123bfc832a60c475b54/NDVI%20(2).png)
 
 [Screenshot NDMI]()

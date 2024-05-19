@@ -24,6 +24,8 @@ Question-3:
 Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() function. Upload the code, code link, and screenshot in your github repo. Submit the repo link.
 
 
-[Answer-3]()
+[Answer-3](https://code.earthengine.google.com/8f569a80914427510c439bc0be28c7e8)
 
-[Screenshot]()
+[Screenshot NDVI]()
+
+[Screenshot NDMI]()

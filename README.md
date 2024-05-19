@@ -5,7 +5,7 @@ Make a NDVI map of your upazila by using Landsat 9 imagery for 2022. Generate 4 
 
 [Answer-1](https://code.earthengine.google.com/524f22b670bd8dbeeb7959e72f77b994)
 
-[Screenshot]()
+[Screenshot](https://github.com/Anamikachow56/Assignment-12-Normalized-difference-indices-Thresholding-Area-Calculation-using-GEE/blob/55da89995d0dc3c5742b52660017fa981c338e2d/NDVI%20area%20calculation.png)
 
 
 

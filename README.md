@@ -28,4 +28,4 @@ Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() functio
 
 [Screenshot NDVI](https://github.com/Anamikachow56/Assignment-12-Normalized-difference-indices-Thresholding-Area-Calculation-using-GEE/blob/994e196de97c2ecc40d84123bfc832a60c475b54/NDVI%20(2).png)
 
-[Screenshot NDMI]()
+[Screenshot NDMI](https://github.com/Anamikachow56/Assignment-12-Normalized-difference-indices-Thresholding-Area-Calculation-using-GEE/blob/dc2ad61d9004150038a331c83a0c8fd54fe3725b/NDMI%20(2).png)

@@ -25,6 +25,13 @@ Question-3:
 Generate two PNG image of your NDVI, and NDMI map by using getThumbURL() function. Upload the code, code link, and screenshot in your github repo. Submit the repo link.
 
 
+quews 4:gdfjkhlkfrhkljl
+
+
+[answer 4](https://code.earthengine.google.com/fff204a5313ae27445f4392f7fba0264)
+
+
+
 [Answer-3](https://code.earthengine.google.com/8f569a80914427510c439bc0be28c7e8)
 
 [Screenshot NDVI](https://github.com/Anamikachow56/Assignment-12-Normalized-difference-indices-Thresholding-Area-Calculation-using-GEE/blob/994e196de97c2ecc40d84123bfc832a60c475b54/NDVI%20(2).png)
